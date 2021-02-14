@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch
+torchvision
+pytorch-lightning
+git+https://github.com/probabll/dgm.pt.git#egg=dgm.pt
