@@ -1,4 +1,4 @@
-# pytorch-binary-dgm
+# pytorch-binary
 This repository contains distributions and estimators for deep generative models with binary latent variables.
 
 The estimators only use the `torch.distributions` package, and can be used in any codebase without additional libraries. A simple experiment with a VAE on MNIST is included.
