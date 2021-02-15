@@ -11,7 +11,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/EelcovdW/pytorch-binary",
-    packages=setuptools.find_packages(),
+    packages=setuptools.find_packages(exclude=['examples.*', 'examples']),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
