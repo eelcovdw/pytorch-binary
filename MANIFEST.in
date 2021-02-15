@@ -1,0 +1,2 @@
+# Exclude examples
+recursive-exclude examples *
